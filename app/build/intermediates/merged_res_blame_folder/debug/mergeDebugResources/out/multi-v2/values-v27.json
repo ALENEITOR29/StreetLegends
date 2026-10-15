@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.streetlegends.app-mergeDebugResources-22:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ALEJANDRO\\Downloads\\StreetLegends_Completo\\StreetLegends\\app\\src\\main\\res\\values-v27\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "447"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-mergeDebugResources-22:\\values-v27\\values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ALEJANDRO\\Downloads\\StreetLegends_Completo\\StreetLegends\\app\\src\\main\\res\\values-v27\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "441"
+                    }
+                }
+            ]
+        }
+    ]
+}

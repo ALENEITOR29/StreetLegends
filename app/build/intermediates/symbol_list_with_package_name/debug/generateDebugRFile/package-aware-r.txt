@@ -1,0 +1,15 @@
+com.example.streetlegends
+drawable evo
+drawable nsx
+drawable rx7
+drawable skyline
+drawable subaru
+drawable supra
+id imgAuto
+id rvAutos
+id txtDatos
+id txtMarca
+id txtNombre
+layout activity_main
+layout item_auto
+style AppTheme

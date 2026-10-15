@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\drawable-nodpi_skyline.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\drawable-nodpi\\skyline.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\drawable-nodpi_evo.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\drawable-nodpi\\evo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\drawable-nodpi_subaru.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\drawable-nodpi\\subaru.xml"
+    },
+    {
+        "merged": "com.example.streetlegends.app-debug-24:/drawable-nodpi_subaru.png.flat",
+        "source": "com.example.streetlegends.app-main-26:/drawable-nodpi/subaru.png"
+    },
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\drawable-nodpi_supra.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\drawable-nodpi\\supra.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\drawable-nodpi_rx7.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\drawable-nodpi\\rx7.xml"
+    },
+    {
+        "merged": "com.example.streetlegends.app-debug-24:/drawable-nodpi_nsx.png.flat",
+        "source": "com.example.streetlegends.app-main-26:/drawable-nodpi/nsx.png"
+    },
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.streetlegends.app-debug-24:/drawable-nodpi_skyline.png.flat",
+        "source": "com.example.streetlegends.app-main-26:/drawable-nodpi/skyline.png"
+    },
+    {
+        "merged": "com.example.streetlegends.app-debug-24:/drawable-nodpi_evo.png.flat",
+        "source": "com.example.streetlegends.app-main-26:/drawable-nodpi/evo.png"
+    },
+    {
+        "merged": "com.example.streetlegends.app-debug-24:/drawable-nodpi_supra.png.flat",
+        "source": "com.example.streetlegends.app-main-26:/drawable-nodpi/supra.png"
+    },
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\drawable-nodpi_nsx.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\drawable-nodpi\\nsx.xml"
+    },
+    {
+        "merged": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-debug-24:\\layout_item_auto.xml.flat",
+        "source": "C:\\Users\\ALEJANDRO\\.gradle\\daemon\\9.8.0\\com.example.streetlegends.app-main-26:\\layout\\item_auto.xml"
+    },
+    {
+        "merged": "com.example.streetlegends.app-debug-24:/drawable-nodpi_rx7.png.flat",
+        "source": "com.example.streetlegends.app-main-26:/drawable-nodpi/rx7.png"
+    }
+]

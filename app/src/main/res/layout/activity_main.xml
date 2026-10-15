@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Activity Main Layout
+    ====================
+    Main screen layout for StreetLegends application (MainActivity).
+
+    Structure:
+    - Root: Vertical LinearLayout with dark theme background (#0D1117)
+    - Header: App Title, Subtitle, and Section Tagline
+    - Body: RecyclerView (rvAutos) displaying the Japanese street car collection
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0D1117"
+    android:padding="16dp">
+
+    <!-- Application Main Title -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STREET LEGENDS"
+        android:textColor="#38BDF8"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.06"
+        android:paddingTop="12dp" />
+
+    <!-- Subtitle / Collection Category -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JAPANESE STREET CAR COLLECTION"
+        android:textColor="#CBD5E1"
+        android:textSize="11sp"
+        android:letterSpacing="0.08"
+        android:paddingTop="5dp"
+        android:paddingBottom="20dp" />
+
+    <!-- Section Tagline Header -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LEYENDAS DEL ASFALTO"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:paddingBottom="12dp" />
+
+    <!-- List of Cars (Populated by AutoAdapter in MainActivity) -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvAutos"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:paddingBottom="8dp" />
+</LinearLayout>

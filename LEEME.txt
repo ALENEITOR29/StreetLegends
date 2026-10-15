@@ -1,0 +1,15 @@
+STREET LEGENDS - PROYECTO ANDROID STUDIO
+
+Este ZIP contiene un proyecto Android básico con Java y XML.
+
+PARA ABRIRLO:
+1. Extrae StreetLegends_Completo.zip en una carpeta de tu PC.
+2. Abre Android Studio.
+3. Selecciona File > Open.
+4. Selecciona la carpeta StreetLegends que acabas de extraer (la que contiene settings.gradle.kts).
+5. Espera a que Gradle sincronice. Si pide instalar Android SDK 35, acepta; si no está disponible, instala la plataforma indicada en SDK Manager.
+6. Ejecuta en tu emulador con Run ▶.
+
+El proyecto incluye imágenes vectoriales temporales con siluetas de autos para que compile sin tener que descargar archivos de imagen. Puedes reemplazarlas luego por fotografías JPG/PNG, conservando los nombres de recurso: skyline, supra, rx7, nsx, evo y subaru.
+
+Si Gradle pide una versión de JDK, selecciona el JBR/JDK 21 de Android Studio.
